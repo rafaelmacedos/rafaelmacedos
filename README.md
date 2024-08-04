@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelmacedos/)
 
-### I´m currently studying Information Systems at Unifacisa - Centro Universitário and working at DBC Company as a QA Analyst ###
+### I´m currently studying Information Systems at Unifacisa - Centro Universitário and working at Corebiz as a QA Analyst ###
 
 [![UniFacisa](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.unifacisa.edu.br/home)
 
