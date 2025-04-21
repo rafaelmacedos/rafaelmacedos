@@ -26,6 +26,5 @@ Sou Rafael, QA e Full Stack Developer. Sempre em busca de aprendizado, tenho pai
 
 ## 📫 Como entrar em contato comigo?
 
-- 📧 Email: [macedorafael2002@gmail.com](mailto:macedorafael2002@gmail.com)
 - 💼 LinkedIn: [Rafael Macedo](https://www.linkedin.com/in/rafaelmacedos/)
 
